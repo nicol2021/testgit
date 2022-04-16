@@ -11,7 +11,7 @@
 	> git add .
 	> git commit -m "First commit"
 	> git remote -v
-	> git remote add origin https://github.com/nicol2021/testgit.git
+	> git remote add origin git@github.com:nicol2021/testgit.git
 	> git branch -M main
 	> git push -u origin main
 
@@ -21,5 +21,7 @@ ps[ht] -- 11.04.2022 -- uyhr_4dyhlije_1s2s3u4a__kjr_dg5437@577111
 	> cd /d D:\OneDrive\gitfikir
 	> git status
 	> git add gitcom.txt info.txt
+	> git commit -m "up_2204162207"
 	> git remote -v
+	> git push origin main
 
