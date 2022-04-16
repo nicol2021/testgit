@@ -1,0 +1,25 @@
+01.according to --> https://oiplug.com/blog/git/5049/	     [11.04.2022 21:37]
+
+02.create a repository in GitHub --> testgit	[private]
+Чтобы избежать ошибки не создавайте и не указывайте в репозитории файлы  README, лицензию и gitignore. Вы сможете добавить все это после добавления проекта в репозиторий.
+
+03.create our project (folder) gitfikir on the computer
+
+04. farther:
+	> cd D:\OneDrive\gitfikir	[cd /d D:\OneDrive\gitfikir]
+	> git init
+	> git add .
+	> git commit -m "First commit"
+	> git remote -v
+	> git remote add origin https://github.com/nicol2021/testgit.git
+	> git branch -M main
+	> git push -u origin main
+
+-------------------h-----16.04.2022 22:07--------
+ps[ht] -- 11.04.2022 -- uyhr_4dyhlije_1s2s3u4a__kjr_dg5437@577111
+[ht]yeio491dflijeburmasshyrpowru784jeio6128000
+	> cd /d D:\OneDrive\gitfikir
+	> git status
+	> git add gitcom.txt info.txt
+	> git remote -v
+
