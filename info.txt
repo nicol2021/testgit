@@ -15,13 +15,14 @@
 	> git branch -M main
 	> git push -u origin main
 
--------------------h-----16.04.2022 22:07--------
+-------------------h-----16.04.2022 22:57--------
 ps[ht] -- 11.04.2022 -- uyhr_4dyhlije_1s2s3u4a__kjr_dg5437@577111
 [ht]yeio491dflijeburmasshyrpowru784jeio6128000
 	> cd /d D:\OneDrive\gitfikir
 	> git status
 	> git add gitcom.txt info.txt
-	> git commit -m "up_2204162207"
+	> git commit -m "up_2204162257"
 	> git remote -v
 	> git push origin main
-
+	> git branch -a
+	> git remote -v
