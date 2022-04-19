@@ -1,4 +1,4 @@
-01.according to --> https://oiplug.com/blog/git/5049/	     [11.04.2022 21:37]
+﻿01.according to --> https://oiplug.com/blog/git/5049/	     [11.04.2022 21:37]
 
 02.create a repository in GitHub --> testgit	[private]
 Чтобы избежать ошибки не создавайте и не указывайте в репозитории файлы  README, лицензию и gitignore. Вы сможете добавить все это после добавления проекта в репозиторий.
@@ -26,3 +26,6 @@ ps[ht] -- 11.04.2022 -- uyhr_4dyhlije_1s2s3u4a__kjr_dg5437@577111
 	> git push origin main
 	> git branch -a
 	> git remote -v
+----------------------cot--------------2204191014---------------
+
+test update
